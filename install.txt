@@ -1,0 +1,8 @@
+requests
+pyfiglet
+whois
+python-nmap
+ipwhois
+termcolor
+rich
+time
